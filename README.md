@@ -1,24 +1,120 @@
-# 💫 About Me:
-📊 Data Science Enthusiast<br>🤖 Exploring AI/ML integration in Automotive Systems<br>🔧 Passionate about Smart Mobility & Innovation<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ABHISHEK%20GOSWAMI&fontSize=70&desc=Data%20Science%20%7C%20AI%2FML%20in%20Automotive%20Systems&descSize=20&descAlignY=62&animation=fadeIn" />
 
+<div align="center">
+  <a href="https://linkedin.com/in/abhishek-goswami-447185325">
+    <img width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Abhi-ops-hub">
+    <img width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfolioabhi-neon.vercel.app/">
+    <img width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-goswami-447185325) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhi-ops-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhi-ops-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-ops-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhi-ops-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;AI%2FML+in+Automotive+Systems;Smart+Mobility+%26+Innovation;Turning+Data+into+Decisions" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhi-ops-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+Hi! I'm a **Data Science enthusiast** exploring **AI/ML integration in Automotive Systems** — with a passion for **Smart Mobility & Innovation** and building data-driven solutions that make an impact.
+
+- 📊 Working on data science projects and ML pipelines
+- 🤖 Exploring AI/ML integration in Automotive Systems
+- 🔧 Passionate about Smart Mobility & Innovation
+- 🌱 Learning cloud fundamentals & practical AI/ML integration
+- 💬 Ask me about **Python, ML frameworks, data analysis & APIs**
+- 🌐 **Portfolio:** [portfolioabhi-neon.vercel.app](https://portfolioabhi-neon.vercel.app/)
+
+---
+
+## Core Technologies
+
+###  Languages & Frameworks
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br><b>JavaScript</b></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br><b>Python</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><b>C++</b></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br><b>C</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br><b>FastAPI</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><b>HTML5</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><b>CSS3</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="48"/><br><b>Anaconda</b></td>
+</tr>
+</table>
+</div>
+
+---
+
+###  Frontend & Styling
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</div>
+
+---
+
+###  Databases & Cloud
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,aws,vercel" />
+</div>
+
+---
+
+###  AI / ML Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<br>
+NumPy • Pandas • Matplotlib • Scikit-Learn • Keras • PyTorch • Plotly • Power BI
+</div>
+
+---
+
+###  Dev Tools & Workflow
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,bash,vscode" />
+</div>
+
+---
+
+##  GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi-ops-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhi-ops-hub&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhi-ops-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Abhi-ops-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=+Always+learning+and+building;+Passionate+about+Smart+Mobility;+Open+to+collaboration" />
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Abhi-ops-hub&style=for-the-badge&color=6A5ACD"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Connect!&fontSize=24&fontAlignY=80" width="100%"/>
