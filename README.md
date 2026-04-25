@@ -96,7 +96,7 @@ NumPy • Pandas • Matplotlib • Scikit-Learn • Keras • PyTorch • Plotl
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi-ops-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhi-ops-hub&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhi-ops-hub&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhi-ops-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
